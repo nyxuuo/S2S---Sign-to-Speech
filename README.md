@@ -19,6 +19,7 @@ Explore the UI on Figma:
 
 ## 📂 Documents
 - [Proposal](./docs/proposalhackathon2024.pdf)
+- [Presentation link](https://www.canva.com/design/DAGF7hUnWos/vkCMEBFDAP1FlDgZsgYRHA/edit?utm_content=DAGF7hUnWos&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ===
 
