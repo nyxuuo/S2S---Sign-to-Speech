@@ -31,5 +31,8 @@ Explore the UI on Figma:
 ==
 
 ## 👥 Team
-- Jesslyn — UI/UX Designer
-- (Tambahkan anggota lainnya jika ada)
+- Priscillia Lovemel Candra
+- Jesslyn Abigail
+- Nicholas Justin
+- Cahya Mia Auliya
+- Felicia Susanty
