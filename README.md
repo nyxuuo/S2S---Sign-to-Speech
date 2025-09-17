@@ -13,7 +13,7 @@ This repository currently contains:
 
 ## 🖥️ Prototype
 Explore the UI on Figma:  
-[🔗 View S2S Prototype]([https://figma.com/link-kamu](https://www.figma.com/proto/dwnozxjKEG8TMeNZrBN9VB/Hackathon?node-id=31-80&t=CvdNtNkG5S2vBRdD-1))
+[🔗 View S2S Prototype](https://www.figma.com/proto/dwnozxjKEG8TMeNZrBN9VB/Hackathon?node-id=31-80&t=CvdNtNkG5S2vBRdD-1)
 
 ===
 
